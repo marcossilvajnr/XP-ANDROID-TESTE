@@ -41,7 +41,7 @@ A interface do app é dividida em 3 partes e deve ser desenvolvida conforme os p
 
 Abaixo temos os wireframes das telas do app.
 
-| ![Page1](android/Characters.png)  | ![Page2](android/Favorites.png) | ![Page3](android/Detail.png) |
+| ![Page1](img/Characters.png)  | ![Page2](img/Favorites.png) | ![Page3](img/Detail.png) |
 |:---:|:---:|:---:|
 | Lista de Personagens | Favoritos | Detalhes do Personagem |
 
