@@ -49,21 +49,14 @@ Abaixo temos os wireframes das telas do app.
 
 * Usar Kotlin.
 * Usar ConstraintLayout.
-* Desenvolver o App em uma arquitetura robusta.
-* O teste não pode apresenter crash.
+* Desenvolver o app em uma arquitetura robusta.
+* O app não pode apresentar crash.
 * Testes unitários e interface.
-
-## Bônus
-
-* Gerar coverage com Jacoco.
-* Usar Clean Architecture com MVP.
 * Usar RxJava para requisições.
-* Usar Extension Functions.
-* Usar Dagger2 para injeções de dependência.
-* Usar Mockito para os testes unitários.
-* Usar Espresso para os testes de interface.
+* Usar Dagger2 para injeção de dependência.
 
 ## Observações
 
 * Fique a vontade para usar quantas bibliotecas você achar pertinente em sua solução. Estamos interessados em saber se você está atualizado com as melhores práticas em desenvolvimento Android. Um código bem organizado e que se preocupe com o alto desempenho será um diferencial.
-* Foque o desenvolvimento nos requisitos essenciais. O bônus vai diferenciar você dos outros candidatos, mas **os requisitos essenciais são mais importantes**.
+
+* Foque o desenvolvimento nos requisitos essenciais.
